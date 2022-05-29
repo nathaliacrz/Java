@@ -23,7 +23,7 @@ public class TiposPrimitivos {
 		boolean estaDeFerias = false; // true
 		
 		// Tipo caractere
-		char status = 'A'; // ativo
+	//	char status = 'A'; // ativo
 		
 		// Dias de empresa
 		System.out.println(anosDeEmpresa * 365);

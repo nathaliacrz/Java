@@ -17,5 +17,6 @@ public class Import {
 		System.out.println(d);
 		
 		JButton botao = new JButton();
+		System.out.println(botao);
 	}
 }

@@ -7,7 +7,7 @@ public class Inferencia {
 		double a = 4.5; //declaração e inicialização
 		System.out.println(a);
 		
-		double ab; // variável declarada
+	//	double ab; // variável declarada
 		a = 12; // variável inicializada
 		System.out.println(a); // variável usada
 		
