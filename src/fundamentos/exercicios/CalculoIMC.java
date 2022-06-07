@@ -16,7 +16,7 @@ public class CalculoIMC {
 
 		double imc = peso / Math.pow(altura, 2);
 
-		System.out.println("IMC: " + imc);
+		System.out.printf("IMC: %.2f", imc);
 
 		sc.close();
 	}
